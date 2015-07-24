@@ -20,15 +20,12 @@ div, span:not( [name=picture] ) {
 	border-color: #2B4BEB;
 }
 
-headers {
-	width: 30%;
-
-}
-
 #picture {
+	float: left;
 	width: 30%;
 }
 
 #projectLinks {
+	float: right;
 	width: 40%;
 }
