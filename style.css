@@ -6,6 +6,10 @@ img {
 	width: 300px;
 }
 
+body {
+	background-image: url( "texture.jpeg" );
+}
+
 headers {
 	width: 30%;
 
