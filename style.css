@@ -26,11 +26,9 @@ headers {
 }
 
 #picture {
-	float: left;
 	width: 30%;
 }
 
 #projectLinks {
-	float: right;
 	width: 40%;
 }
