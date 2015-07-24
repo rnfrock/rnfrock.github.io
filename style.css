@@ -25,10 +25,12 @@ headers {
 
 }
 
-picture {
+span.picture {
+	float: left;
 	width: 30%;
 }
 
-projectLinks {
+span.projectLinks {
+	float: right;
 	width: 40%;
 }
