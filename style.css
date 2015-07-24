@@ -12,8 +12,8 @@ body {
 }
 
 div:not( [name=picture] ) {
-	background-color: #FFFFFF; 
-	opacity: 0.6;
+	background: rgb(255, 255, 255); /* Fallback for older browsers without RGBA-support */
+    background: rgba(255, 255, 255, 0.6); 
 	margin: 10px; 
 	padding: 10px;
 	border-style: dotted;
