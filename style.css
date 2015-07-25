@@ -11,7 +11,7 @@ body {
 	background-position: center;
 }
 
-div:not( [name=spans, name=picture] ) {
+div:not( [name=spans] ), span:not( [name=picture] ) {
 	background: rgb(255, 255, 255); /* Fallback for older browsers without RGBA-support */
     background: rgba(255, 255, 255, 0.4); 
 	margin: 10px; 
