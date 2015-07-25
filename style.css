@@ -22,10 +22,8 @@ div:not( [name=spans] ), span:not( [name=picture] ) {
 
 #picture {
 	float: left;
-	width: 50%;
 }
 
 #projectLinks {
 	float: right;
-	width: 50%;
 }
