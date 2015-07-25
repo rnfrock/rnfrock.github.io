@@ -20,11 +20,13 @@ div:not( [name=spans] ), span:not( [name=picture] ) {
 	border-color: #2B4BEB;
 }
 
-#picture {
+span#picture {
+	width: 500 px;
 	float: left;
 }
 
-#projectLinks {
+span#projectLinks {
+	width: 700px;
 	float: right;
 	vertical-align: center;
 }
