@@ -28,5 +28,5 @@ span#picture {
 span#projectLinks {
 	width: 700px;
 	float: right;
-	vertical-align: center;
+	margin-top: 60px;
 }
