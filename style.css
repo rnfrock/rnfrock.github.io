@@ -21,9 +21,8 @@ div:not( [name=spans] ), span:not( [name=picture] ) {
 }
 
 #picture {
-	float: left;
 }
 
 #projectLinks {
-	float: right;
+	vertical-align: center;
 }
