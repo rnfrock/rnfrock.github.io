@@ -11,7 +11,7 @@ body {
 	background-position: center;
 }
 
-div:not( [name=spans] ), span:not( [name=picture] ) {
+div:not( [name=spans] ), span:not( [name=picture, name=cube] ) {
 	margin-top: 60px;
 	background: rgb(255, 255, 255); /* Fallback for older browsers without RGBA-support */
     background: rgba(255, 255, 255, 0.4); 
@@ -34,5 +34,5 @@ span#projectLinks {
 }
 
 span#cube {
-	width: 800px;
+	width: 1000px;
 }
