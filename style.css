@@ -34,6 +34,11 @@ span#projectLinks {
 }
 
 img#screenshots {
+	width: 500;
 	padding: 20px;
+}
 
+img#large-screenshots {
+	width: 800px;
+	padding: 20px;
 }
