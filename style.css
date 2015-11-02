@@ -32,7 +32,7 @@ span {
 
 span#projectLinks {
 	width: 700px;
-	float: right;
+	/*float: right;*/
 	margin-top: 60px;
 	margin-right: 60px;
 }
