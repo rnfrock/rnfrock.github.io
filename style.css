@@ -27,7 +27,7 @@ span#picture {
 }
 
 span {
-	flost: right;
+	float: right;
 }
 
 span#projectLinks {
