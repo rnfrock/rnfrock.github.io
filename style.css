@@ -26,6 +26,10 @@ span#picture {
 	float: left;
 }
 
+span {
+	flost: right;
+}
+
 span#projectLinks {
 	width: 700px;
 	float: right;
