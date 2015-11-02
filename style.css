@@ -13,11 +13,13 @@ body {
 }
 
 aside {
-	float: left;
+	/*float: left;*/
+	width: 40%;
 }
 
 section {
-	float: right;
+	/*float: right;*/
+	width: 60%;
 }
 
 div:not( [name=spans] ), span:not( [name=picture] ) {
