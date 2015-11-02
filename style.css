@@ -11,6 +11,14 @@ body {
 	background-position: center;
 }
 
+aside {
+	float: left;
+}
+
+section {
+	float: right;
+}
+
 div:not( [name=spans] ), span:not( [name=picture] ) {
 	margin-top: 60px;
 	background: rgb(255, 255, 255); /* Fallback for older browsers without RGBA-support */
