@@ -18,6 +18,7 @@ aside {
 }
 
 section {
+	display: inline-block;
 	float: left;
 	width: 60%;
 }
