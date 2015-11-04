@@ -24,7 +24,7 @@ aside {
 	width: 30%;
 }
 
-header {
+section#head {
 	display: inline-block;
 	float: right;
 	width: 70%;
