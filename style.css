@@ -21,13 +21,14 @@ body {
 aside {
 	display: inline-block;
 	float: left;
-	width: 40%;
+	width: 30%;
 }
 
 section {
 	display: inline-block;
 	float: left;
-	width: 60%;
+	width: 70%;
+	padding: 10px;
 }
 
 header, div:not( [name=spans] ), span:not( [name=picture] ) {
