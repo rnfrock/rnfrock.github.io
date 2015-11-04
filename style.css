@@ -9,7 +9,7 @@ a {
 
 a:hover {
 	text-decoration: underline;
-	
+
 }
 
 img {
@@ -37,8 +37,8 @@ aside {
 }
 
 section#head {
-	/*display: inline-block;*/
-	float: right;
+	display: inline-block;
+	/*float: right;*/
 	margin-top: 20px;
 	margin-right: 40px;
 }
