@@ -3,9 +3,9 @@
 }
 
 img {
-	padding: 10%;
+	padding: 20px;
 	margin-left: 30%;
-	width: 150px;
+	width: 180px;
 	border-style: double;
 	border-color: #2B4BEB;
 	background: rgb(255, 255, 255); /* Fallback for older browsers without RGBA-support */
