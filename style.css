@@ -31,7 +31,8 @@ section#head {
 	padding: 10px;
 }
 
-header, div:not( [name=spans] ), span:not( [name=picture] ) {
+
+footer, div:not( [name=spans] ), span:not( [name=picture] ) {
 	margin-top: 60px;
 	background: rgb(255, 255, 255); /* Fallback for older browsers without RGBA-support */
     background: rgba(255, 255, 255, 0.4); 
