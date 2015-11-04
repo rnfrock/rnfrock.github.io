@@ -4,7 +4,8 @@
 
 img {
 	padding: 10%;
-	margin-left: 30%;
+	/*margin-left: 30%;*/
+	margin: 10px;
 	width: 180px;
 	border-style: double;
 	border-color: #2B4BEB;
