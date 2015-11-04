@@ -6,7 +6,7 @@ img {
 	padding: 15%;
 	/*margin-left: 30%;*/
 	margin: 10px;
-	width: 180px;
+	width: 200px;
 	border-style: double;
 	border-color: #2B4BEB;
 	background: rgb(255, 255, 255); /* Fallback for older browsers without RGBA-support */
@@ -22,14 +22,14 @@ aside {
 	/*display: inline-block;*/
 	float: left;
 	/*width: 30%;*/
-	margin-top: 40px;
+	margin-top: 30px;
 	margin-left: 40px;
 }
 
 section#head {
 	/*display: inline-block;*/
 	float: right;
-	margin-top: 40px;
+	margin-top: 30px;
 	margin-right: 40px;
 }
 
