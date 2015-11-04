@@ -19,21 +19,26 @@ body {
 }
 
 aside {
-	display: inline-block;
+	/*display: inline-block;*/
 	float: left;
-	width: 30%;
+	/*width: 30%;*/
 }
 
 section#head {
-	display: inline-block;
+	/*display: inline-block;*/
 	float: right;
-	width: 70%;
+	/*width: 70%;*/
 	padding: 10px;
+	background: rgb(255, 255, 255); /* Fallback for older browsers without RGBA-support */
+    background: rgba(255, 255, 255, 0.4); 
+	margin: 10px; 
+	border-style: double;
+	border-color: #2B4BEB;
 }
 
 
 footer, div:not( [name=spans] ), span:not( [name=picture] ) {
-	margin-top: 60px;
+	/*margin-top: 60px;*/
 	background: rgb(255, 255, 255); /* Fallback for older browsers without RGBA-support */
     background: rgba(255, 255, 255, 0.4); 
 	margin: 10px; 
