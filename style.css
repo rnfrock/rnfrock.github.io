@@ -28,16 +28,10 @@ section#head {
 	/*display: inline-block;*/
 	float: right;
 	/*width: 70%;*/
-	padding: 10px;
-	background: rgb(255, 255, 255); /* Fallback for older browsers without RGBA-support */
-    background: rgba(255, 255, 255, 0.4); 
-	margin: 10px; 
-	border-style: double;
-	border-color: #2B4BEB;
 }
 
 
-footer, div:not( [name=spans] ), span:not( [name=picture] ) {
+div:not( [name=spans] ), span:not( [name=picture] ) {
 	/*margin-top: 60px;*/
 	background: rgb(255, 255, 255); /* Fallback for older browsers without RGBA-support */
     background: rgba(255, 255, 255, 0.4); 
