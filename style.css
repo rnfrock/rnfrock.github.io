@@ -47,7 +47,7 @@ section#head {
 }
 
 
-div:not( [name=main] ), span:not( [name=picture] ) {
+div:not( [name=spans] ), div:not( [name=main] ), span:not( [name=picture] ) {
 	/*margin-top: 60px;*/
 	background: rgb(255, 255, 255); /* Fallback for older browsers without RGBA-support */
     background: rgba(255, 255, 255, 0.4); 
